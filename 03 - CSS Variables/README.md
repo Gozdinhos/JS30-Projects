@@ -6,4 +6,6 @@ Here is a mini project written using css variables that allows you to make some 
 
 [ -> see ](https://gozdinhos.github.io/CSS-Variables/
 
-![Alt](/css-var.png 'screenshot')
+![Alt](css-var.png)
+
+> mischief managed :herb:
