@@ -6,6 +6,6 @@ Here is a fancy clock for you :orange_heart:
 
 [ -> see ](https://gozdinhos.github.io/JS-CSS-Clock/)
 
-![Alt](/js-clock.png 'screenshot')
+![Alt](js-clock.png)
 
 > mischief managed :herb:
