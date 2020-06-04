@@ -6,6 +6,6 @@ I did this project as part of Wes Bos's JS30 course. I tweaked the colors and ba
 
 [ -> see ](https://gozdinhos.github.io/js-drum-kit/)
 
-Screenshot: ![Alt](/img01.png)
+Screenshot: ![Alt](img01.png)
 
 > mischief managed :herb:
