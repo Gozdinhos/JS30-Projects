@@ -4,8 +4,6 @@
 
 Here is a flex panel project for your css muscles :orange_heart:
 
-[ -> see ]()
-
-![Alt](/ss.png 'screenshot')
+![Alt](ss.png)
 
 > mischief managed :herb:
