@@ -4,6 +4,6 @@
 
 Here is a custom html5 video player for you. I coded along this project with WesBos. Additionally, as a mini task, i added a functional fullscreen button and styled it.
 
-![Alt](html5-video-player.jpg)
+![Alt](html5-video-player.png)
 
 > mischief managed :herb:
