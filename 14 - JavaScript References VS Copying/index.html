@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>JS Reference VS Copy</title>
+  </head>
+  <body>
+    <script>
+      // primitive variables
+      let age = 100;
+      let age2 = age;
+      console.log(age, age2);
+      age = 200;
+      console.log(age, age2);
+
+      let name = 'Gozgoz';
+      let name2 = name;
+      console.log(name, name2);
+      name = 'Gozde';
+      console.log(name, name2);
+
+      // arrays
+
+      const players = ['Gozde', 'Utku', 'Seftali', 'Ozhan'];
+
+      const team = players;
+
+      console.log(players, team);
+
+      const team2 = players.slice();
+
+      // concat
+
+      const team3 = [].concat(players);
+
+      // spread
+
+      const team4 = [...players];
+      team4[3] = 'heeee hawww';
+      console.log(team4);
+
+      const team5 = Array.from(players);
+
+      // objects
+      const person = {
+        name: 'Gozde',
+        age: 80,
+      };
+
+      // copying object
+      const cap2 = Object.assign({}, person, { number: 99, age: 12 });
+      console.log(cap2);
+
+      const goz = {
+        name: 'Gozde',
+        age: 100,
+        social: {
+          twitter: '@gozgoz',
+          facebook: 'gozde.developer',
+        },
+      };
+
+      console.log(goz);
+
+      const dev = Object.assign({}, goz);
+
+      const dev2 = JSON.parse(JSON.stringify(goz));
+    </script>
+  </body>
+</html>
