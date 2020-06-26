@@ -2,6 +2,6 @@
 
 ## wes bos js30 course
 
-Here is a sorting band project without "a", "an", "the".
+Here is a sorting band names project without "a", "an", "the".
 
 ![Alt](ss.png)
