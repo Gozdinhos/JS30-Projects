@@ -1,5 +1,7 @@
-# JS30 Speech Detection
+# JS30 Webcam Fun
 
 ## wes bos js30 course
 
-Here is a project that recognize your voice and turns into text!
+Here is a project that turns your webcam capture into rainbow!
+
+![Alt](cap.png)
